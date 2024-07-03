@@ -27,11 +27,14 @@ I never would have imagined I could create a map like this; it was definitely a 
 
 ## Repositories
 **GIS Climate Action Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action <br>
+<br>
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main <br>
-**Oso Mudslide:** https://github.com/T3ch12et/Oso-Mudslide/tree/main <br>
-**Hurricanes since 1851:** https://github.com/T3ch12et/Hurricanes-since-1851
+**Athens Heat Risk Index:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index <br>
+<br>
+**Oso Mudslide:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide <br>
+<br>
+**Hurricanes since 1851:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851
