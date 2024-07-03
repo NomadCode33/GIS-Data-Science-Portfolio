@@ -23,6 +23,7 @@ This challenge taught me valuable lessons about positioning, perspective, and cr
 
 ## Repositories
 **Previous Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography <br>
+<br>
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 ## Examples:
