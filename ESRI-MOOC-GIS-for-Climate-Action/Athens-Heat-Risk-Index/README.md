@@ -22,12 +22,15 @@ The key takeaway from this project was the invaluable experience of utilizing Ar
 I also learned the importance of meticulously filtering data and converting it into specific formats to enhance interactivity and usability. This project underscored how time-consuming the process can be, which encouraged me to take my time and be intentional with every action. This careful, deliberate approach ensures accuracy and effectiveness in my work.
 
 ## Repositories
-**Previous Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action
+**GIS Climate Action Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action <br>
+<br>
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main <br>
-**Oso Mudslide:** https://github.com/T3ch12et/Oso-Mudslide/tree/main <br>
-**Hurricanes since 1851:** https://github.com/T3ch12et/Hurricanes-since-1851
+**Miami Sea Level Rise:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise <br>
+<br>
+**Oso Mudslide:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide <br>
+<br>
+**Hurricanes since 1851:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851
