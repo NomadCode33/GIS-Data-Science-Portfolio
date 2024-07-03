@@ -26,7 +26,7 @@ What I've learned here is the importance of going beyond the basics and experime
 While the basics are crucial, art and presentation significantly enhance how the message is conveyed to viewers. This approach can inspire curiosity about the topic and even motivate action. Small details can make a big difference in effective storytelling through maps. The skills I've learned in basemap and icon construction have taught me to be intentional in my mapmaking, ensuring that every element contributes to a compelling and informative visual narrative.
 
 ## Repositories
-**Previous Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography
+**Cartography Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 ## Examples:
