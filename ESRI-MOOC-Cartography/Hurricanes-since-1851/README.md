@@ -27,6 +27,7 @@ While the basics are crucial, art and presentation significantly enhance how the
 
 ## Repositories
 **Cartography Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography <br>
+<br>
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 ## Examples:
