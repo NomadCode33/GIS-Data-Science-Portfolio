@@ -22,7 +22,7 @@ I embarked on the animation project expecting a straightforward process, but I q
 This challenge taught me valuable lessons about positioning, perspective, and creative problem-solving. It opened my eyes to the nuances of animation, helping me develop a keen attention to detail and learn how to manipulate elements to effectively communicate the story. By the end, I had gained a deeper appreciation for the art of animation and the skill required to create a seamless, engaging narrative.
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et <br>
+**Profile:** [T3ch12et](https://github.com/T3ch12et) <br>
 **Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography) <br>
 **Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
