@@ -41,7 +41,7 @@ Through this intricate process, the Sumner Boundary Map came to life, a testamen
 
 ## Optimizations
 
-Crafting the Sumner Boundary Map was a meticulous journey that demanded precision and a deep understanding of geographic information systems (GIS). One of the first steps was aligning the project with Furtado’s specialized coordinate system. This alignment was crucial for achieving the high precision and accuracy required for reliable project outcomes, ensuring that every detail was mapped with exactness.
+Crafting the Sumner Boundary Map was a meticulous journey that demanded precision and a deep understanding of Geographic Information Systems (GIS). One of the first steps was aligning the project with Furtado’s specialized coordinate system. This alignment was crucial for achieving the high precision and accuracy required for reliable project outcomes, ensuring that every detail was mapped with exactness.
 
 To manage and optimize the data efficiently, I employed the Extract, Transform, Load (ETL) process alongside the Feature Class to Feature Class tool. This combination was instrumental in cleaning and organizing the data, which significantly improved both the quality of the data and the speed at which it could be loaded and processed. 
 
