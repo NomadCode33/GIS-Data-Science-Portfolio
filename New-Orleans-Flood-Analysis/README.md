@@ -79,13 +79,6 @@ Throughout this project, we gained invaluable insights into the complexities of 
 
 * [New Orleans Topography](https://en-us.topographic-map.com/maps/q8su/New-Orleans/#:~:text=Name%3A%20New%20Orleans%20topographic%20map%2C%20elevation%2C%20relief.%20Coordinates%3A,Maximum%20elevation%3A%20821%20ft%20Average%20elevation%3A%203%20ft)
 
-
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
@@ -108,3 +101,9 @@ Take a look at these couple examples that I have in my own portfolio:
 **Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
 
 **Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
+
