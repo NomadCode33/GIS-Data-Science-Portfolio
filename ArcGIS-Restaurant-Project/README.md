@@ -64,3 +64,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
 
+## Repositories
+**Profile:** https://github.com/T3ch12et
+
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
