@@ -1,7 +1,7 @@
 # New Orleans Flood Mapping Project (Post Hurricane Data Analysis)
 This group project examines hurricane flooding in New Orleans, a city vulnerable due to its low topography and proximity to the Gulf of Mexico. By using cartographic skills, we aimed to help residents, emergency responders, and policymakers better prepare for and mitigate future hurricane damage, though it is crucial to emphasize investing in high-risk zones to prevent exacerbating socio-economic disparities.
 
-**Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
+**Link to Project:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
 <img src="https://github.com/T3ch12et/git-lfs/blob/main/New%20Orleans%20Flood%20Risk.gif" img alt = "New Orleans Flood Risk Website"/>
 
