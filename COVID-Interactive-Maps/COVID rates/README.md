@@ -92,7 +92,7 @@ Through the development of this project, I learned how to harness these data sou
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
 
-**COVID Map Repository:** [COVID Interactive Maps]()
+**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
 
 **Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
