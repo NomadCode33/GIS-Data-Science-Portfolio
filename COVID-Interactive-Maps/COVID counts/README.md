@@ -130,7 +130,7 @@ Working on this project was an enlightening journey that taught me invaluable le
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
 
-**COVID Map Repository:** [COVID Interactive Maps]()
+**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
 
 **Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
