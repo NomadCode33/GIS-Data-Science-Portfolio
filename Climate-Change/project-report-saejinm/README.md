@@ -31,7 +31,7 @@ This project was an eye-opener in many ways. I learned the importance of meticul
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
 
-**Climate Change Repository:** [Climate Change]()
+**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
 
 **Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
