@@ -87,6 +87,13 @@ The app is robust and informative, but there are areas where enhancements could 
 
 Creating the interactive website deepened my understanding of climate change and honed my technical skills. I learned the importance of designing intuitive user interfaces and the intricacies of fetching and integrating data from diverse sources. This project underscored the power of interactive visualizations in making complex data accessible and engaging for users. Moreover, it highlighted the necessity of clear communication and meticulous attention to detail, from coding to final presentation.
 
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
+
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
