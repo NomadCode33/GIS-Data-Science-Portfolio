@@ -7,15 +7,15 @@ A dynamic 3D map highlighting the buildings in Miami, Florida that are projected
 
 **Tech used:** ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas of the World, ArcGIS 3D Analyst extension
 
-I began by downloading the dataset of Miami and transforming the 2D map into a 3D display. The next step was to set the extrusion of the buildings. After the extrusion, I used the join field tool to merge tables, transferring attributes to accurately reflect the varied building heights, as initially, all buildings were the same size. To further align the buildings with their real-life counterparts, I created multipatch layers. Utilizing the symbology pane and a rule package file (RPK), I enhanced the buildings with detailed textures and windows, and the RPK file also modified the roof shapes for realism. I then added water data, creating a realistic 3D representation through the symbology pane, and set the illumination to reflect 8 AM lighting conditions.
+I started by downloading Miami’s dataset and transforming a flat 2D map into a dynamic 3D display. My first task was setting the building extrusions, as all the buildings initially appeared at the same height. To correct this, I used the join field tool to merge tables and accurately assign real-world building heights. I then created multipatch layers to add depth, using the symbology pane and a rule package file (RPK) to add detailed textures, windows, and realistic roof shapes. For a natural touch, I added water data, adjusting the symbology to create a realistic water appearance and setting the lighting to match the morning sun at 8 AM.
 
-With the basics completed, I focused on acquiring sea level rise data from the ArcGIS Living Atlas of the World, specifically layers for intermediate-high sea level rise projections for 2030, 2050, and 2090 from NOAA's Digital Coast. I used the Environments Geoprocessing tool to configure this data, and the raster to polygon tool to convert the data into polygons for better interactivity. 
+With the city’s foundation set, I shifted to gathering sea level rise data from the ArcGIS Living Atlas of the World, focusing on NOAA's intermediate-high projections for 2030, 2050, and 2090. I processed these layers using the Environments Geoprocessing tool and converted them into interactive polygons with the raster to polygon tool.
 
-Next, I calculated the affected buildings by filtering the building layer using the Select by Location tool with the sea level rise data for 2030, 2050, and 2090. In the attribute table, I created a new column called "Inundated_Year" to indicate the year each building is at risk. Using the symbology pane, I assigned unique colors to reflect the risk levels: green for not affected, light-orange for 2030, dark-orange for 2050, and red for 2090. 
+Next, I assessed which buildings would be affected by future sea level rise. Using the Select by Location tool, I filtered the building layer based on the 2030, 2050, and 2090 projections. In the attribute table, I added a new column, "Inundated_Year," to mark the year each building could be at risk. I then applied color coding in the symbology pane to highlight risk levels: green for unaffected, light orange for 2030, dark orange for 2050, and red for 2090.
 
-To further analyze, I used the Elevation Profile tool to measure the elevation of buildings, finding that those not at risk were built at higher elevations with sea level rise in mind, unlike the vulnerable buildings. This insight emphasizes the importance of considering sea level rise in future building developments.
+To dive deeper, I used the Elevation Profile tool to measure building heights, revealing that those not at risk were constructed on higher ground, demonstrating the critical need to consider sea level rise in future developments.
 
-Finally, I uploaded the 3D map onto ArcGIS Online for public viewing.
+Finally, I uploaded the completed 3D map to ArcGIS Online, making it accessible for public exploration and understanding.
 
 ## Optimizations
 
