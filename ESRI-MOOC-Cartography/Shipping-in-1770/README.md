@@ -7,17 +7,19 @@ This animation provides a 2D visualization of the shipping routes of England, th
 
 **Tech used:** ArcGIS Pro
 
-After downloading the data, I opened the map and navigated to the Properties of the Ship Positions layer. In the Time tab, I selected "Filter Layer Content Based on Attribute Values" and confirmed that each feature has a single time field, setting the Time Field to ShipDate. With these settings confirmed, the time slider appeared, displaying a timeline from January 1, 1770, to December 31, 1770. In the Snapping group, I checked the Time Snapping box and set the units to Days, with a span of 7 days, making the time slider jump ahead by one week intervals.
+After downloading the data, I opened the map and navigated to the properties of the Ship Positions layer. In the Time tab, I selected "Filter Layer Content Based on Attribute Values" and set the Time Field to "ShipDate," confirming that each feature had a single time field. This enabled the time slider, which displayed a timeline from January 1, 1770, to December 31, 1770. To make the animation progress in weekly increments, I activated the Time Snapping option, set the units to days, and defined a span of 7 days.
 
-I then enabled the Colonial Ports and Ship Paths layers in the Contents pane. The map's brightness was overwhelming, making it difficult to see all the details. To improve visibility, I adjusted the transparency in the Effects group: 50% for the Colonial Ports layer and 90% for the Ship Paths layer. This adjustment made the Ship Positions more prominent, while the paths and ports receded. Next, I changed the background color to a custom dark gray in the Map Properties, creating a more cohesive and less stimulating visual.
+Next, I enabled the Colonial Ports and Ship Paths layers in the Contents pane. The map was overly bright, making it difficult to discern details, so I adjusted the transparency settings: 50% for the Colonial Ports layer and 90% for the Ship Paths layer. These adjustments allowed the Ship Positions to stand out while the paths and ports faded into the background. To further enhance the map's appearance, I changed the background color to a custom dark gray, creating a more cohesive and visually calming effect.
 
-The next step was to create temporal keyframes to illustrate changes in ship positions over the year. I first defined the change in temporal extent for each time step, establishing the first keyframe in the animation. In the Time tab, within the Current Time group, I verified that the Span was set to 7 days, locked it, and confirmed that the Start field was set to January 1, 1770. I then moved to the View tab, clicked the Add Animation button in the Animation group, and opened the Animation Timeline pane. I created the first keyframe and, in the Export group, selected Movie to open the Export Movie pane. Although I initially chose the Twitter preset, I switched to the YouTube preset for a wider resolution. I panned the map to place Antarctica at the base of the frame, leaving some blank space at the top for the title. I selected the first keyframe on the Animation Timeline, clicked Update, and set the spatial extent.
+With the map properly set, it was time to create temporal keyframes to illustrate the movement of ships throughout the year. I started by defining the change in temporal extent for each time step, setting the first keyframe in the animation. In the Time tab, I locked the Span to 7 days and verified that the Start field was set to January 1, 1770. I then moved to the View tab, clicked "Add Animation" in the Animation group, and opened the Animation Timeline pane. I created the first keyframe, then adjusted the spatial extent by panning the map to place Antarctica at the base of the frame, leaving space at the top for the title.
 
-Back in the Time tab, I confirmed the Span was still 7 days and locked, with the End field now set to December 31, 1770. Returning to the Animation Timeline pane, I clicked the Append Next Keyframe button to add a second keyframe. To ensure the duration was easy to follow, I set it to 12 seconds in the Playback group of the Animation tab.
+Initially, I chose the Twitter preset for the video export, but I switched to the YouTube preset for a wider resolution. Back in the Time tab, I confirmed the 7-day span was locked, and set the End field to December 31, 1770. Returning to the Animation Timeline pane, I clicked "Append Next Keyframe" to add a second keyframe and set the animation duration to 12 seconds to ensure a smooth and easy-to-follow playback.
 
-To communicate the changing dates effectively, I included dynamic dates within the video. I selected both keyframes in the Animation Timeline pane, updated the title in the Overlay Group to "World Shipping (1770)," and set the font. In the Dynamic Text section of the Overlay group, I selected Map Time, adding the predefined tagged HTML element `<dyntype="animation" property="endTime" format="short"/>` and matched the font to my earlier setting. The end date for the first keyframe (January 8, 1770) appeared in the upper-left corner, dynamically updating in sync with the video.
+To effectively communicate the changing dates, I added dynamic text overlays to the video. In the Overlay group, I updated the title to "World Shipping (1770)" and formatted the font for clarity. I then selected both keyframes in the Animation Timeline pane and added dynamic text using the predefined HTML tag `<dyntype="animation" property="endTime" format="short"/>`, which dynamically displayed the end date of each keyframe in the upper-left corner. As the animation played, the date updated in sync with the movement of the ships.
 
-I modified the `<dyn 'endTime">` element to `<dyntype="animation" property="endTime" format="MMMM"/>` to display only the month name. I positioned it at the bottom-center and, in the Animation Properties pane, clicked the gear icon next to the endTime overlay item to access advanced text properties. I chose None from the Callout drop-down list, simplifying the presentation and making the dynamic text easier to read during fast playback. Finally, I exported the animation using the appropriate video settings, completing the process.
+To simplify the display, I modified the dynamic text element to `<dyntype="animation" property="endTime" format="MMMM"/>` to show only the month name. I positioned this text at the bottom-center of the screen and adjusted the advanced text properties to remove the callout style, making the text easier to read during fast playback.
+
+With everything in place, I exported the animation using the appropriate video settings, completing a dynamic visualization that captured the ebb and flow of global shipping routes in 1770. The final video effectively conveyed the story of maritime movement, bringing history to life through a compelling and engaging animation.
 
 ## Optimizations
 
@@ -27,26 +29,18 @@ The resolution could be slightly shorter, as the empty space risks breaking imme
 
 I relish the feeling of being a director creating my own movie. Through this process, I've gained a deeper understanding of how to make animation meaningful and informative for the viewer. It requires a great deal of foresight and planning to ensure that each frame is meticulously crafted, much like directing a flawless movie scene. Without these fundamental skills, an animation can easily become all style and no substance.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise) 
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index) 
+**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide) 
+**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
-
-**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
