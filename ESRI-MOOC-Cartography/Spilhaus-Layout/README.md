@@ -7,19 +7,19 @@ A map showcasing an unconventional yet stunning projection of the world's oceans
 
 **Tech used:** ArcGIS Pro
 
-The project started with a basic map of the world in a WGS84 coordinate system, displayed in black and gray tones. The initial map had a cartoonish level of generalization, intended to balance detail with clarity on a small-scale map.
+The project began with a basic world map, drawn in the WGS84 coordinate system, with simple black and gray tones. It had a cartoonish level of generalization designed to balance detail and clarity on a small-scale map. The map felt flat, and I wanted it to tell a more dynamic story about the world’s oceans.
 
-My first step was to change the map projection to highlight the interconnectedness of the world's oceans using the "Spilhaus World Ocean Map in a Square." I zoomed to the full extent of the map and opened the Map Properties dialog box. In the Coordinate Systems tab, I searched for and selected the Spilhaus projection. This projection uniquely presents the world's oceans as a singular, continuous body of water, offering a fresh perspective.
+To bring this idea to life, I decided to use a different map projection that would emphasize the interconnectedness of the oceans. I chose the "Spilhaus World Ocean Map in a Square." This unique projection reimagines the world’s geography, presenting all the oceans as one continuous body of water. I zoomed to the full extent of the map, opened the Map Properties dialog box, and switched to the Spilhaus projection, instantly giving the map a fresh, ocean-centric perspective.
 
-Next, I focused on creating a layout that visually prioritized the oceans and employed an attractive faded border to frame the ocean composition. I created a new layout with a custom page size of 1000x1000 points, giving me a square canvas to work with. I added the Spilhaus map to the layout, adjusting the map frame properties to remove the default border and ensure the map filled the space correctly.
+With the projection set, my next task was to create a layout that highlighted the oceans and framed them with an elegant border. I created a new layout with a custom page size of 1000x1000 points, providing a square canvas. I added the Spilhaus map to this layout and adjusted the map frame properties, removing the default border to allow the oceans to stretch across the canvas without interruption.
 
-To avoid abrupt edges and ensure continuity, I duplicated the map frame four times, placing copies along the edges of the central map. I rotated these frames as necessary to align perfectly with the central map, creating a seamless, repeating pattern that maintained the geographic continuity of areas like the Gulf of Mexico.
+To ensure a seamless visual flow, I duplicated the map frame four times, positioning these duplicates along the edges of the central map. I carefully rotated each frame to align perfectly with the main map, creating a continuous, repeating pattern that maintained the geographic integrity of areas like the Gulf of Mexico. This approach gave the map a sense of unending oceanic continuity.
 
-To enhance the map's visual appeal, I added a vignette overlay image with a black mask, providing a pleasant faded edge that helped focus the viewer's attention on the oceans. This choice added contrast and depth to the map.
+To draw the viewer’s eye toward the ocean, I added a vignette overlay image with a black mask, which created a soft, faded edge around the map. This effect added depth and contrast, subtly guiding attention to the center of the composition. 
 
-Adding color was the next step to make the map truly unique. I selected a green color for the land polygons, giving the map a vibrant look. For the bathymetry, I chose a blue color scheme to represent oceanic depths, making the map more visually engaging and informative. Finally, I added text, titles, and other essential information to complete the layout.
+Next, I began adding color to bring the map to life. I chose a vibrant green for the land polygons, which popped against the backdrop of blue tones I applied to represent the ocean depths. This color scheme enhanced the map's visual appeal while also conveying the information more effectively. Finally, I added titles, text, and other essential elements to complete the layout.
 
-Through this process, I transformed a simple, black-and-gray map into a visually stunning and informative representation of the world's oceans, using advanced GIS techniques and creative design choices to tell a compelling story. This project taught me the importance of thoughtful projection selection, the power of repetition for visual continuity, and the impact of color and overlay techniques in creating engaging maps.
+By the end, I had transformed a simple, monochromatic map into a captivating and informative depiction of the world’s oceans. This project taught me how a thoughtful choice of projection can shift a map’s narrative, how repetition can create a sense of continuity, and how color and overlays can be powerful tools in crafting an engaging visual story.
 
 ## Lessons Learned:
 
@@ -33,30 +33,18 @@ Finally, incorporating text, titles, and other details into the layout demonstra
 
 Overall, this experience deepened my understanding of advanced GIS techniques, the art of visual hierarchy, and the critical role of design in effective map-making.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
 **Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
-
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
-
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
-
 **Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
 
-**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+**Climate Change Report:** [Climate Change Report](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-report-saejinm)
 
-**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
