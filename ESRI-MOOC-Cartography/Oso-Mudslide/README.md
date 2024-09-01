@@ -9,11 +9,11 @@ A compelling 3D animation depicting the devastation caused by the mudslide at St
 
 **Tech used:** ArcGIS Pro
 
-I began by downloading the necessary files to construct the 3D map scene and create the animation. My first task was to establish the initial keyframe using a built-in bookmark to set the starting position. With the export settings configured to GIF for optimal viewing, I moved on to adding additional keyframes. These keyframes showcased various angles of the mudslide, including before and after images, to effectively depict the extent of the destruction. Bookmarks were used to accurately position each view, ensuring a comprehensive presentation.
+I began by downloading the files needed to build the 3D map scene and create the animation. My first step was to establish a starting keyframe, using a built-in bookmark to set the initial position. I configured the export settings to GIF for optimal viewing, ensuring the animation would be clear and engaging. Then, I moved on to adding additional keyframes, each designed to capture different angles of the mudslide—before and after—highlighting the scale of the destruction. I relied on bookmarks to precisely position each view, making sure every angle contributed to a comprehensive presentation.
 
-To create seamless transitions between the before and after images of the mountain, I meticulously adjusted transparency settings. This involved carefully turning layers on and off at precise moments to maintain consistency and clarity. To further aid viewer comprehension, I added text overlays that explained the visual information being presented. 
+To create smooth transitions between the before and after images, I carefully adjusted transparency settings, turning layers on and off at just the right moments to maintain clarity and flow. Each transition was crafted to ensure the viewer could easily understand the changes over time. To further aid comprehension, I added text overlays that explained the visual information being presented, providing context to the unfolding scene.
 
-Finally, after ensuring all elements were perfectly aligned and the transitions were smooth, I exported the animation. The result was a powerful and clear visual representation of the mudslide's impact, effectively communicating the scale of the destruction.
+After aligning all the elements and perfecting the transitions, I exported the animation. The final product was a powerful visual representation of the mudslide's impact—effectively capturing its scale and conveying the story of the destruction with clarity and impact.
 
 ## Lessons Learned:
 
@@ -21,24 +21,18 @@ I embarked on the animation project expecting a straightforward process, but I q
 
 This challenge taught me valuable lessons about positioning, perspective, and creative problem-solving. It opened my eyes to the nuances of animation, helping me develop a keen attention to detail and learn how to manipulate elements to effectively communicate the story. By the end, I had gained a deeper appreciation for the art of animation and the skill required to create a seamless, engaging narrative.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
+**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
+**Climate Change Website:** [Climate Change App](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
