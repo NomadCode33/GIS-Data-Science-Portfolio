@@ -7,13 +7,13 @@ A detailed map projection showcasing the projected paths and frequencies of hurr
 
 **Tech used:** ArcGIS Pro
 
-First, I gathered four datasets: the NASA basemap image, NOAA historic hurricanes, coastlines and graticules, and Firefly icon images. To create an engaging visual experience, I selected the South Pole Stereographic Projection. This projection highlights the circular structure of the numerous storms worldwide, emphasizing the density in the Northern Hemisphere.
+I began by gathering four key datasets: the NASA basemap image, NOAA's historic hurricane data, coastlines and graticules, and a collection of Firefly icon images. To create a captivating visual experience, I chose the South Pole Stereographic Projection. This projection accentuates the circular patterns of storms across the globe, drawing attention to the storm density in the Northern Hemisphere.
 
-Next, I modified the basemap to be darker and more saturated, enhancing the contrast with the bright hurricane points. I made the grayscale of the basemap slightly transparent, allowing a hint of color to show through.
+To make the hurricane points stand out, I modified the basemap, darkening it and boosting its saturation to enhance contrast. I also adjusted the grayscale of the basemap to be slightly transparent, allowing subtle colors to peek through and adding depth to the map.
 
-I then added the Firefly icons in the Content pane, linking the images to the points representing the hurricanes. To enhance the map's visual appeal and focus, I added a vignette at the center.
+Next, I incorporated the Firefly icons in the Content pane, linking them to the hurricane data points to create a dynamic visual effect. To draw the viewer's focus to the center, I added a vignette, which softly darkens the edges of the map.
 
-At the bottom of the map, I included a bar chart comparing data counts by year. Below the chart, I added annotation text to provide context on the history of hurricanes and how measurement methods have evolved over time. This combination of visual elements and informative text helps create a comprehensive and engaging representation of the data.
+At the bottom of the map, I placed a bar chart that compares hurricane occurrences by year. Beneath the chart, I added annotation text that provides context about the history of hurricanes and explains how measurement methods have evolved over time. This combination of striking visuals and informative text creates a comprehensive and engaging representation of the data, inviting viewers to explore and understand the story of hurricanes worldwide.
 
 ## Optimizations
 
@@ -25,24 +25,18 @@ What I've learned here is the importance of going beyond the basics and experime
 
 While the basics are crucial, art and presentation significantly enhance how the message is conveyed to viewers. This approach can inspire curiosity about the topic and even motivate action. Small details can make a big difference in effective storytelling through maps. The skills I've learned in basemap and icon construction have taught me to be intentional in my mapmaking, ensuring that every element contributes to a compelling and informative visual narrative.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
+**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
