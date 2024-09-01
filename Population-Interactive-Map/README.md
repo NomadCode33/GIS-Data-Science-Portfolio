@@ -13,43 +13,42 @@ The project embarked on an intriguing journey with the retrieval of King County 
 
 To achieve this, I incorporated a button feature that effortlessly switches between the different datasets, enhancing the viewer's experience by providing a seamless transition between the maps. The use of reliable and esteemed datasets was paramount, ensuring the accuracy and credibility of the visualizations. My goal was to create an engaging, user-friendly interface that allowed users to interact with the data intuitively, thus gaining a deeper understanding of the demographic changes over the years.
 
-Here's a detailed look into the process:
+The HTML document was crafted like the foundation of a story, carefully laying out each element to bring an interactive map to life.
 
-1. **HTML Structure and Dependencies:**
-   - The document commenced with the `<!DOCTYPE html>` declaration, followed by the basic HTML structure comprising `<html>`, `<head>`, and `<body>` tags.
-   - Within the `<head>` section, a title was defined, along with a link to the Leaflet CSS file to style the map.
-   - The `<body>` section included scripts for Leaflet, a JavaScript library for maps, jQuery for handling AJAX requests, and an external GeoJSON file named `KCPop2000.js`.
+### 1. **Setting the Stage: HTML Structure**
+   - The story begins with the `<!DOCTYPE html>` declaration, setting the stage for an HTML5-compliant document. The main characters, `<html>`, `<head>`, and `<body>`, were introduced, forming the backbone of the page.
+   - Within the `<head>` section, a title was bestowed upon the document, and a link to the Leaflet CSS file was established to style the upcoming map. Here, the external elements were gathered, much like tools for a grand adventure.
+   - The `<body>` was then prepared, housing scripts that included Leaflet, a powerful map-making library, along with jQuery for handling the AJAX requests needed to retrieve data from a GeoJSON file named `KCPop2000.js`.
 
-2. **Leaflet and Map Initialization:**
-   - A `<div>` element with the ID `mapid` was created to house the map, with specified dimensions (800px by 600px) and centered using CSS.
-   - A Leaflet map, referred to as `mymap`, was initialized with the center point set to Seattle’s coordinates (latitude: 47.6062, longitude: -122.3321) and a zoom level of 10.
-   - A tile layer from OpenStreetMap was added to provide the base map tiles.
+### 2. **Bringing the Map to Life: Leaflet Initialization**
+   - The journey continued as a `<div>` with the ID `mapid` was created to serve as the canvas for the map. Its dimensions were carefully defined (800px by 600px) and centered using CSS, ensuring the map would take center stage.
+   - With this canvas in place, the Leaflet map, dubbed `mymap`, was brought to life. Its heart was set to beat in the coordinates of Seattle (latitude: 47.6062, longitude: -122.3321) with a zoom level of 10, setting the scene for an expansive view.
+   - To enrich this view, a tile layer from OpenStreetMap was added, draping the map in detailed, familiar base tiles.
 
-3. **Styling and Classification Functions:**
-   - Functions such as `popStyle`, `classification`, `newStyle`, and `oldStyle` were defined to style the population data for the year 2000.
-   - The classification function categorized the population data into various ranges, assigning corresponding colors for better visual distinction.
-   - The `newStyle` and `oldStyle` functions handled mouse hover effects to highlight the tract boundaries, enhancing interactivity.
+### 3. **Defining the World: Styling and Classification**
+   - As the story deepened, functions such as `popStyle`, `classification`, `newStyle`, and `oldStyle` were crafted to give meaning and color to the population data from 2000.
+   - The `classification` function categorized the population data, assigning colors to each range like a painter filling in a canvas. These hues offered clear visual distinctions, making the story’s world vibrant and understandable.
+   - The `newStyle` and `oldStyle` functions added a touch of magic, with mouse hover effects that highlighted boundaries, making the world interactive and responsive to the user's touch.
 
-4. **Popup Functions for Population Data:**
-   - Functions like `popUp2000` and `popUp2010` were implemented to bind popups to map layers, displaying census tract names and population data for the years 2000 and 2010 respectively.
-   - These functions also managed mouse events to show or hide popups and change styles on hover, providing an interactive user experience.
+### 4. **Revealing the Secrets: Popup Functions**
+   - Like the unveiling of secrets, the `popUp2000` and `popUp2010` functions were scripted to bind popups to map layers. These popups revealed census tract names and population data from 2000 and 2010, respectively.
+   - These functions also controlled the choreography of mouse events—showing and hiding popups and altering styles on hover—providing a dynamic, engaging experience as users explored the map.
 
-5. **Styling and Popup Functions for Poverty Data:**
-   - Functions such as `povStyle` and `povclass` were designed for styling poverty data based on different percentage ranges.
-   - The `povUp200` function was responsible for binding popups to display poverty data for each census tract, with similar mouse event handling as the population functions.
+### 5. **Exploring Deeper Layers: Poverty Data**
+   - The story then delved into the more intricate layers of poverty data, where functions like `povStyle` and `povclass` were penned to style data based on percentage ranges, revealing the socioeconomic contours of the map.
+   - The `povUp200` function played a key role in bringing these layers to the surface, binding popups that displayed poverty data for each census tract, with interactions that mirrored those of the population functions.
 
-6. **GeoJSON Data Layers:**
-   - Three GeoJSON layers were defined: `pop2000Layer` for the year 2000 population data, `pop2010Layer` for 2010 population data, and `povper200Layer` for poverty percentage data.
-   - Data for `pop2010Layer` and `povper200Layer` were loaded asynchronously using jQuery’s `$.getJSON` method from specified URLs.
+### 6. **Building the Narrative: GeoJSON Data Layers**
+   - The narrative was enriched with the creation of three GeoJSON layers: `pop2000Layer` for 2000’s population data, `pop2010Layer` for 2010, and `povper200Layer` for poverty percentages.
+   - Like gathering chapters, data for `pop2010Layer` and `povper200Layer` was loaded asynchronously using jQuery’s `$.getJSON` method, ensuring that the story unfolded smoothly without interruption.
 
-7. **Layer Control Functions:**
-   - Functions such as `pop2000`, `pop2010`, and `povper200` were implemented to add the corresponding data layer to the map and remove the others.
-   - These functions ensured that only one layer was visible at a time, maintaining a clean and focused visualization.
+### 7. **Guiding the Reader: Layer Control**
+   - To keep the story clear and focused, functions like `pop2000`, `pop2010`, and `povper200` were written. These functions allowed users to add or remove the corresponding data layers, ensuring that only one layer was visible at a time, much like turning pages to focus on one chapter at a time.
 
-8. **Control Buttons:**
-   - Three buttons were created to switch between the different data layers. Each button called one of the layer control functions (`pop2000`, `pop2010`, `povper200`) upon being clicked, allowing users to seamlessly toggle between the datasets.
+### 8. **Empowering the Explorer: Control Buttons**
+   - Finally, three buttons were created, each corresponding to a different data layer. These buttons were the keys to exploring the different facets of the map. With a simple click, users could toggle between datasets, seamlessly moving between different parts of the story.
 
-This meticulously crafted code leveraged Leaflet and GeoJSON to create an interactive map that vividly visualized demographic data. The ability to switch between various datasets with ease provided users with a comprehensive tool to explore and understand the demographic shifts and economic conditions within King County over time.
+This tale, meticulously written in code, leveraged Leaflet and GeoJSON to create a rich, interactive map that vividly visualized King County’s demographic data. Users could easily switch between various datasets, offering them a comprehensive tool to explore and understand the evolving narrative of demographic shifts and economic conditions over time.
 
 ## Optimizations
 
@@ -64,25 +63,11 @@ Working on this project was a profound learning experience that highlighted the 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
-
-**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
-
-**COVID Cases Map:** [COVID Interactive Cases Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20counts)
-
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
-
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
-
 **Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**Climate Change Website:** [Climate Change App](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
-
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
-
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**Climate Change Report:** [Climate Change Report](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-report-saejinm)
 
 ## Repositories
 **Profile:** https://github.com/T3ch12et
