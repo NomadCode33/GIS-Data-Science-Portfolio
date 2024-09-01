@@ -13,66 +13,43 @@ To bring this project to life, I embarked on an exciting journey of data explora
 
 ### HTML Document Structure
 
-1. **`<!DOCTYPE html>`**:
-    - This declaration informs the browser that the document adheres to the HTML5 standard.
-
-2. **`<html>`**:
-    - The root element that encapsulates the entire HTML document.
+1. **Starting with the Basics**:
+    - The document kicks off with the `<!DOCTYPE html>` declaration, signaling to the browser that it follows the HTML5 standard.
+    - The entire structure of the page is wrapped within the `<html>` tag, marking the root of the document.
 
 ### Head Section
 
-3. **`<head>`**:
-    - Contains meta-information essential for the document.
+2. **Setting the Foundation**:
+    - Inside the `<head>` section, key meta-information is included.
+    - The `<meta charset="utf-8">` tag ensures that the document uses UTF-8 encoding, making sure all characters display correctly.
+    - The title of the page, visible on the browser tab, is set using the `<title>Interactive Web Mapping</title>` tag.
 
-4. **`<meta charset="utf-8">`**:
-    - Defines the character encoding for the document as UTF-8, ensuring proper display of text.
+3. **Responsive Design and Styling**:
+    - The `<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">` tag is crucial for making the webpage responsive, controlling how it scales on different devices.
+    - Styling is enhanced by linking to the Mapbox GL JS library’s CSS file with the `<link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet">`.
+    - Additionally, a custom stylesheet (`stylerate.css`) is linked using `<link rel="stylesheet" href="css/stylerate.css"/>`.
 
-5. **`<title>Interactive Web Mapping</title>`**:
-    - Sets the title of the webpage, visible on the browser tab.
-
-6. **`<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">`**:
-    - Configures the viewport for responsive design, setting initial and maximum zoom levels while disabling user scaling.
-
-7. **`<link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet">`**:
-    - Links to the CSS file from the Mapbox GL JS library, providing essential styles for the map.
-
-8. **`<script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>`**:
-    - Incorporates the Mapbox GL JS library’s JavaScript, enabling the interactive mapping capabilities.
-
-9. **`<link rel="stylesheet" href="css/stylerate.css"/>`**:
-    - Links to an external CSS file (`stylerate.css`) for additional custom styles.
+4. **Interactive Mapping Power**:
+    - The `<script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>` tag pulls in the Mapbox GL JS library, enabling the creation of interactive maps.
 
 ### Body Section
 
-10. **`<body>`**:
-    - The main content area of the webpage.
+5. **Bringing the Page to Life**:
+    - The `<body>` tag contains the main content of the webpage, where the magic happens.
+    - A `<div id="map"></div>` is set up as the map container, acting as the canvas where the Mapbox map will be displayed.
+    - Overlays are added with divs like `<div class='map-overlay' id='features'>` and `<div class='map-overlay' id='legend'></div>`, which provide extra layers of information, such as a title, instructions, and a legend.
 
-11. **`<div id="map"></div>`**:
-    - A div element designated to host the Mapbox map.
+6. **Interactive Features and Logic**:
+    - The `<script src="js/mainrate.js"></script>` tag links to an external JavaScript file that handles the map’s interactivity, from initializing the map to managing user interactions.
+    - An empty `<script></script>` tag is also included, ready to house any inline JavaScript that might be added later.
 
-12. **`<div class='map-overlay' id='features'>`**:
-    - An overlay div for displaying features on the map, particularly information about US COVID rates.
-    - **`<h2>US COVID Rates</h2>`**: A prominent heading for the overlay.
-    - **`<div id='text-description'><p>Hover over a state!</p></div>`**: Instructions for users to interact with the map.
+### The Big Picture
 
-13. **`<div class='map-overlay' id='legend'></div>`**:
-    - A reserved div for displaying the map’s legend, explaining data visualizations.
+- **External Libraries**: By incorporating the Mapbox GL JS library, the document equips itself with powerful tools to build interactive, customizable maps.
+- **Styling and Overlays**: The combination of Mapbox’s CSS and the custom `stylerate.css` file ensures that the map and its overlays are visually appealing and easy to use.
+- **JavaScript Integration**: The linked JavaScript file (`mainrate.js`) is the engine that drives the map’s functionality, making sure everything runs smoothly and responds to user input.
 
-14. **`<script src="js/mainrate.js"></script>`**:
-    - Links to an external JavaScript file (`mainrate.js`), likely containing the logic for initializing and managing the interactive map.
-
-15. **`<script></script>`**:
-    - An empty script tag, ready for additional inline JavaScript if necessary.
-
-### Bringing It All Together
-
-- **External Libraries**: By importing the Mapbox GL JS library, we enable the creation of highly interactive, customizable maps.
-- **Styling**: The combined power of the Mapbox CSS and our custom `stylerate.css` file ensures the map and overlays are visually appealing and user-friendly.
-- **Map Container**: The `div` with the `id="map"` acts as the canvas where the Mapbox map is rendered.
-- **Overlays**: The `map-overlay` divs serve as additional layers providing contextual information, such as titles, instructions, and legends.
-- **JavaScript Logic**: The external JavaScript file (`mainrate.js`) is the brain behind the map’s functionality, initializing the map, adding data layers, handling user interactions, and updating the overlays dynamically.
-
-This HTML document meticulously constructs a web page framework, integrating necessary libraries and components to display an interactive map powered by Mapbox GL JS. The additional overlays enrich the user experience, presenting valuable information about US COVID rates. The `mainrate.js` file plays a crucial role in bringing the map to life, ensuring it responds seamlessly to user interactions.
+This HTML document is carefully crafted to create a webpage that displays a dynamic, interactive map powered by Mapbox GL JS. The additional overlays provide users with valuable insights, while the `mainrate.js` file ensures a seamless and engaging user experience.
 
 ## Optimizations
 
@@ -89,30 +66,18 @@ Through the development of this project, I learned how to harness these data sou
 
 **Link to COVID rates:** [U.S. Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
+**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+
+**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+
 **New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
 
-**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
 
-**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
-
-**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
-
-**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
-
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
-
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
-
-**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
