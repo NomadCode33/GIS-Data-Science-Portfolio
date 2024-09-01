@@ -87,33 +87,18 @@ The app is robust and informative, but there are areas where enhancements could 
 
 Creating the interactive website deepened my understanding of climate change and honed my technical skills. I learned the importance of designing intuitive user interfaces and the intricacies of fetching and integrating data from diverse sources. This project underscored the power of interactive visualizations in making complex data accessible and engaging for users. Moreover, it highlighted the necessity of clear communication and meticulous attention to detail, from coding to final presentation.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
-
 **Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
-
-**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
-
-**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
-
-**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
-
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
 
 **Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
 
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Population Map:** [Population Interactive Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
+**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
 
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
