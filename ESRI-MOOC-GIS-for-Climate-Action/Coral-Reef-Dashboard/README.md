@@ -42,5 +42,3 @@ Take a look at these couple examples that I have in my own portfolio:
 **GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
 
 **Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
-
-**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
