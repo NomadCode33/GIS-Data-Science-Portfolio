@@ -7,23 +7,23 @@ An ArcGIS StoryMap that highlights my GIS work on studying and addressing climat
 
 **Tech used:** ArcGIS StoryMaps, ArcGIS Pro, ArcGIS Online, ArcGIS Instant Apps, ArcGIS Dashboards, ArcGIS Living Atlas of the World, ArcGIS Survey123, ArcGIS Network Analyst
 
-I began by downloading the necessary files and creating a new story on ArcGIS StoryMaps. I started with the basics, adding a title, a captivating introduction, and a roadmap to ensure great flow throughout the StoryMap. This setup effectively set the stage for the contents and outline of the story.
+I embarked on the creation of my StoryMap by downloading the necessary files and setting up a new project on ArcGIS StoryMaps. I began with the essentials: a compelling title, an engaging introduction, and a clear roadmap to guide the audience through the narrative. This structure set the stage for an immersive exploration of climate change topics, seamlessly linking each section.
 
-I used the Sidecar feature to create slides that seamlessly switch between topics. The first slide, "Visualizing Climate Change Data," included a subheading discussing weather variables and the creation of climate models combined with GIS to plan for future climate change impacts. I provided an example using ArcGIS Instant Apps to showcase the Rondonia Land Cover Change from 1992 to 2020, displayed on the right side of the screen.
+To make the story dynamic and visually captivating, I utilized the Sidecar feature to create interactive slides that smoothly transition between key themes. The first slide, "Visualizing Climate Change Data," opened with an exploration of weather variables and the development of climate models combined with GIS to predict future impacts. To illustrate this, I featured an ArcGIS Instant App showcasing land cover changes in Rondonia from 1992 to 2020, which unfolded on the screen’s right side like a visual journey through time.
 
-The second slide, "Mitigating Greenhouse Gases," emphasized the importance of spatial data in mitigating greenhouse gases. It highlighted the use of location data to analyze and visualize information for both local and global applications. The slide featured an example from ArcGIS Pro and ArcGIS Navigator, illustrating optimized vehicular routes to reduce fuel consumption and emissions.
+On the second slide, "Mitigating Greenhouse Gases," I delved into the power of spatial data to reduce greenhouse gas emissions. I highlighted how location-based data can analyze and visualize patterns, benefiting both local and global sustainability efforts. An example from ArcGIS Pro and ArcGIS Navigator demonstrated how optimizing vehicle routes could reduce fuel consumption and emissions, bringing the concept to life with real-world relevance.
 
-The third slide focused on "Electricity Sources," drawing attention to the benefits of clean energy, such as solar power. I showcased a 3D web scene from ArcGIS Pro, uploaded to ArcGIS Online, which displayed buildings with varying levels of solar radiation potential. The visualization used shades of blue for lower energy potential and shades of yellow, orange, and red for higher potential.
+The third slide, "Electricity Sources," turned the spotlight on clean energy, particularly solar power. Here, I showcased a 3D web scene created in ArcGIS Pro and uploaded to ArcGIS Online, illustrating buildings across a city with varying levels of solar energy potential. Blue hues indicated lower potential, while yellows, oranges, and reds signaled areas rich in solar energy possibilities, painting a vivid picture of a sustainable future.
 
-In the fourth slide, "Understanding Exposure to Climate-Related Hazards," I addressed the impact of climate-related disasters like flooding, drought, and extreme heat. I used a 3D visualization of Miami Beach Sea Level Rise created in ArcGIS Pro to demonstrate how rising sea levels could affect infrastructure, aiding local planners and decision-makers.
+Next, in "Understanding Exposure to Climate-Related Hazards," I examined the effects of climate-related disasters such as flooding, drought, and extreme heat. A 3D visualization of Miami Beach's sea level rise, crafted in ArcGIS Pro, demonstrated the potential impact on infrastructure, offering a valuable tool for local planners and decision-makers.
 
-The fifth slide, "Assessing Vulnerability and Risk," explored how GIS can identify localized risks to climate change and vulnerable populations. An example from ArcGIS Pro used the Presence-Only Prediction (MaxEnt) tool to show suitable locations for growing maize under current and future climate conditions. The slide featured a side-by-side comparison of suitable locations, with shades of green representing viable areas.
+The fifth slide, "Assessing Vulnerability and Risk," explored how GIS can pinpoint localized climate risks and identify vulnerable populations. An ArcGIS Pro example used the Presence-Only Prediction (MaxEnt) tool to visualize suitable locations for growing maize under current and future climate conditions. A side-by-side comparison displayed in shades of green helped viewers understand the areas most viable for cultivation.
 
-The sixth slide, "Investigating Risk Reduction Options and Planning," emphasized the importance of adaptation plans to increase community resilience to climate change. The Athens Heat Risk Index map, created in ArcGIS Pro and uploaded to ArcGIS Online, showcased areas prioritized for tree planting to cool the city. Darker shades of red indicated higher risk areas, while lighter shades of yellow and orange showed less risk.
+In the sixth slide, "Investigating Risk Reduction Options and Planning," I underscored the importance of adaptation strategies for community resilience. I presented the Athens Heat Risk Index map, created in ArcGIS Pro and shared on ArcGIS Online, which highlighted areas prioritized for tree planting to cool the city. Darker reds marked higher-risk zones, while lighter yellows and oranges represented areas with less risk.
 
-The seventh slide, "Taking Action," highlighted how GIS can drive action against climate change and promote sustainability. It featured the Coral Reef Dashboard project from ArcGIS Dashboards, which monitors the health of coral reefs, crucial for coastal protection, local economies, and food sources. The dashboard provided location analytics to identify reefs at risk of bleaching.
+The seventh slide, "Taking Action," emphasized how GIS tools can catalyze action against climate change and foster sustainability. This slide featured the Coral Reef Dashboard project from ArcGIS Dashboards, which monitors the health of coral reefs—vital for coastal protection, local economies, and food sources. The dashboard offered valuable location analytics to identify reefs at risk of bleaching.
 
-I concluded with a call to action, encouraging viewers to continue the dialogue and contribute to the climate conversation. Finally, I published the StoryMap online, ready to share my work and inspire others.
+I wrapped up the StoryMap with a call to action, encouraging viewers to stay engaged and contribute to the climate conversation. With a sense of accomplishment, I published the StoryMap online, ready to inspire others and drive meaningful action against climate change.
 
 ## Lessons Learned:
 
@@ -31,24 +31,18 @@ I loved the process of creating this StoryMap because it represents the culminat
 
 This leads to another valuable lesson I learned: crafting a compelling story that can inspire change and motivate others to take action. It’s important to present work that is not only visually appealing but also allows the audience to grasp the real-world ramifications of our choices on the environment. The StoryMap can teach viewers that, although these issues are significant, we can take steps to address them and develop long-term preventative plans. Ultimately, it shows that we can coexist peacefully with the environment we live in, which we call Earth.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
-
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
-
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
 
 **Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+## Repositories
+**Profile:** https://github.com/T3ch12et
+
+**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
+
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
