@@ -7,13 +7,17 @@ An interactive dashboard displaying coral reef pollution and health at local, re
 
 **Tech used:** ArcGIS Online, ArcGIS Dashboards
 
-Accessing ArcGIS Online, I began my project by searching for NOAA Coral Reef Watch data. Opening it in Map Viewer, I prepared the web map for the dashboard, meticulously examining all layers and features. The attribute table displayed critical information, such as Degree Heating Weeks and Alert Level, which would be central to my dashboard. Choosing the Human Geography Dark Map from the Basemap options, I zoomed in to fill the map view. After saving the map and inputting the necessary information, I moved on to creating a new dashboard, selecting a dark theme, and updating the header with the dashboard's title.
+I began by diving into ArcGIS Online to search for the NOAA Coral Reef Watch data. Opening the data in Map Viewer, I carefully examined all the layers and features to prepare the web map for the dashboard. The attribute table revealed crucial information, such as Degree Heating Weeks and Alert Levels, which would be central to the dashboard's purpose. I selected the "Human Geography Dark Map" from the Basemap options and zoomed in to frame the coral monitoring areas perfectly. With the map view set, I saved the map and added all the necessary details before moving on to create a new dashboard. Choosing a dark theme to enhance visibility, I updated the header to display the dashboard's title.
 
-I then added list elements to display the monitoring status at each virtual station, sorting them by the highest accumulated heat stress. Clicking "Add Element" and selecting "List," I positioned it on the left side of the dashboard. Linking the layers from my Coral Reef Bleaching web map, I expanded the NOAA Coral Reef Watch (CRW) Virtual Stations layer. Sorting the Degree Heating Weeks in descending order, I updated the list text to dynamically display the monitoring status at each virtual station.
+Next, I wanted to show the monitoring status at each virtual station, so I added a list element that sorted them by the highest accumulated heat stress. Using the "Add Element" button, I selected "List" and positioned it on the left side of the dashboard. I linked the list to the layers from the Coral Reef Bleaching web map and expanded the NOAA Coral Reef Watch (CRW) Virtual Stations layer. Sorting by Degree Heating Weeks in descending order, I updated the list to dynamically display the monitoring status for each station, allowing viewers to see which reefs were experiencing the most stress.
 
-On the Actions tab, I enabled the "Show Pop-Up" option for the Coral Reef Bleaching feature to display pop-ups when a location was selected. I added a serial chart to show the number of virtual stations by alert level, ranging from 0 (no bleaching) to 4 (severe bleaching). Placing the chart on the left side of the dashboard, I sourced the layer from the Coral Reef Bleaching web map and expanded the NOAA Coral Reef Watch (CRW) Virtual Stations layer. In the Data Options pane, I selected "Alert Level" for the Category Field, adjusted the x-axis labels in the Category Axis tab, and changed the y-axis label to "Number of Coral Stations" in the Value Axis tab. In the Series tab, I chose "By Category" for the Bar Color option, assigning colors to represent coral bleaching severity: light blue for No Alert, light yellow for Watch, peach for Warning, light brown for Level 1, and dark brown for Level 2. To ensure the actions worked, the elements had to share a data source or be mapped to the data source. I filtered the Target Field to "Alert Level" in the Actions tab, so clicking on the bar graph for an alert level would show the corresponding points on the map.
+To make the data more interactive, I enabled the "Show Pop-Up" option in the Actions tab for the Coral Reef Bleaching feature, so that a pop-up would display details whenever a location was selected. Then, I added a serial chart to visualize the number of virtual stations by alert level, ranging from 0 (no bleaching) to 4 (severe bleaching). I placed this chart beside the list, sourcing the data from the Coral Reef Bleaching web map and focusing on the NOAA Coral Reef Watch (CRW) Virtual Stations layer. I chose "Alert Level" as the Category Field, customized the x-axis labels, and set the y-axis to display the "Number of Coral Stations." To represent the severity of coral bleaching visually, I assigned different colors to the alert levels: light blue for "No Alert," light yellow for "Watch," peach for "Warning," light brown for "Level 1," and dark brown for "Level 2." These colors helped users quickly grasp the status of each reef.
 
-Finally, I added an indicator element to the top left corner of the map to display dynamic summary statistics based on attribute fields in the dashboard data. This indicator reported the number of virtual stations at risk of bleaching. Selecting the Coral Reef Bleaching web map from the Virtual Stations layer of NOAA Coral Reef Watch (CRW), I built an expression filter stating _Alert Level Greater Than Or Equal 3_ to show the number of stations with a Level 1 or 2 alert. I included the total count of virtual stations for context, choosing "Statistic" for the Reference type. In the Indicator Options pane, I typed "Coral reefs at risk of bleaching" out of the total number of stations. Lastly, I configured the actions to ensure the different elements of the dashboard interacted seamlessly.
+To enhance the interactivity, I ensured that the elements shared a common data source. In the Actions tab, I set the Target Field to "Alert Level," so that clicking on a bar in the graph would highlight the corresponding locations on the map.
+
+For a final touch, I added an indicator element at the top left corner of the map to display dynamic summary statistics. This indicator showed the number of virtual stations where the coral reef was at risk of bleaching. I linked it to the Coral Reef Bleaching web map from the NOAA Coral Reef Watch (CRW) Virtual Stations layer. Using the Data Options pane, I built an expression filter stating "Alert Level Greater Than Or Equal to 3" to highlight stations with Level 1 or 2 alerts. To provide context, I included the total number of stations in the reference section and chose "Statistic" as the reference type. The indicator now read, "Coral reefs at risk of bleaching" alongside the total station count, offering a clear and immediate understanding of the situation.
+
+Lastly, I configured the actions to ensure that all the dashboard elements could interact seamlessly, creating a cohesive, engaging experience for viewers. With the dashboard complete, I had a powerful tool ready to monitor and raise awareness about the health of coral reefs worldwide.
 
 ## Lessons Learned:
 
@@ -23,24 +27,20 @@ With a variety of customization options at my disposal, I could design a stylish
 
 Witnessing the interactivity between different apps on ArcGIS coming together to create fantastic products was both fascinating and gratifying. It’s incredible to see how these tools can seamlessly integrate to produce something impactful and beneficial.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
+**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
+## Repositories
+**Profile:** https://github.com/T3ch12et
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
+
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
 **Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
