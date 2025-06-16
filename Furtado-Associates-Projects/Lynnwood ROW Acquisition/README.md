@@ -1,4 +1,4 @@
-# Lynnwood QA/QC & Legal Document
+# Lynnwood ROW Acquisition
 The Right-of-Way (ROW) department ensures draft maps align with check drawings on Autodesk Civil 3D, handling permits, parcel maps, and quality checks through teamwork and regular Microsoft Teams meetings. My tasks included file protection, parcel map analysis with Civil 3D commands, QA/QC in BlueBeam, and data verification using county websites.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
@@ -28,7 +28,7 @@ Working on this project taught me the importance of file protection, data accura
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Jurisdiction Boundary:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
 **Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
 

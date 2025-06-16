@@ -1,4 +1,4 @@
-# Sumner Boundary & Raster Maps
+# Sumner Jurisdiction Boundary
 The Sumner Boundary Map project, undertaken independently, involved creating a comprehensive and accurate map of the Sumner area using ArcGIS Pro. The project included establishing the project boundary, gathering and cleansing various datasets, integrating data into Autodesk Civil 3D for enhanced management and visualization, and creating a high-resolution raster map for detailed visual representation.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
@@ -64,7 +64,7 @@ Lastly, the project emphasized the importance of continuous learning and adaptat
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood ROW Acquisition:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
 
 **Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
 
