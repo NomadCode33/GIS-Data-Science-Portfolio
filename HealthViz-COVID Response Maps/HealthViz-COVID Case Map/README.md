@@ -3,7 +3,7 @@ This assignment shows maps that are created from the data sources of COVID-19 re
 
 **Link to project:** https://t3ch12et.github.io/COVID%20Interactive%20Maps/COVID%20counts/
 
-<img src="./COVID Cases Interactive Map.gif" img alt = "COVID Rates GIF"/>
+<img src="./HealthViz-COVID Case Map.gif" img alt = "COVID Rates GIF"/>
 
 ## How It's Made:
 
