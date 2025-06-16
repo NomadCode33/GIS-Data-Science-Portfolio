@@ -1,4 +1,4 @@
-# Climate Change Website App 
+# EcoPulse Climate Interactive Web App 
 The project involved creating an interactive website using RStudio and Shiny Apps to allow users to engage with climate change data. This website provides educational insights through various tabs featuring interactive visualizations, data analysis, and explanations on different aspects of climate change.
 
 **Link to Project**: https://mecha.shinyapps.io/project-app-T3ch12et/

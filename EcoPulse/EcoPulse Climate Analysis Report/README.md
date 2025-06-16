@@ -1,7 +1,7 @@
-# Climate Change Report
+# EcoPulse Climate Analysis Report
 This report delves into the multifaceted issue of climate change by examining economic damages, anomalies, greenhouse gas emissions, and population impacts. Utilizing extensive datasets from the World Health Organization, our research answers five key questions, with findings seamlessly integrated into a comprehensive, publicly accessible report.
 
-**Link to Project**: https://t3ch12et.github.io/Climate-Change/project-report-saejinm/
+**Link to Project**: https://NomadCode33.github.io/Climate-Change/project-report-saejinm/
 
 <img src="https://github.com/T3ch12et/git-lfs/blob/main/Climate%20Change%20Report.gif" img alt = "Climate Change Report GIF"/>
 
