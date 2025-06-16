@@ -3,7 +3,7 @@ The project involved retrieving King County census data and constructing an inte
 
 **Link to project:** https://t3ch12et.github.io/Population%20Interactive%20Map/
 
-<img src="./Population Interactive Map.gif" img alt = "Population GIF"/>
+<img src="./DemoGraphIt.gif" img alt = "Population GIF"/>
 
 ## How It's Made:
 
