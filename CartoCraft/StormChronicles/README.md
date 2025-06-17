@@ -1,5 +1,5 @@
 # StormChronicles: Hurricanes since 1851
-A detailed map projection showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns.
+A detailed map projection showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns to analyze trends.
 
 <img alt = "Hurricane" img src="./Hurricane_Projection_EmekaEmeche.jpg"/>
 
@@ -28,15 +28,15 @@ While the basics are crucial, art and presentation significantly enhance how the
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
+**SpilView:** [SpilView: Seeing the World Through Oceans](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/SpilView)
 
-**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
+**DemoGraphIt Map:** [DemoGraphIt: Interactive Census Mapping Tool](https://github.com/NomadCode33/NomadGeo/tree/main/DemoGraphIt)
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
