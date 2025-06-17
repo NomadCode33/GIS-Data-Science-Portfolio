@@ -30,7 +30,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **ThermaRisk:** [ThermaRisk: Mapping Urban Heat Risk in Athens](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ThermaRisk)
 
-**OsoShift:** [OsoShift: Oso Landslie Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
+**OsoShift:** [OsoShift: Oso Landslide Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
 
 **West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
