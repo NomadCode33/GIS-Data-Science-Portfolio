@@ -1,9 +1,9 @@
-# COViz: COVID Case Interactive Map
+# COViz: COVID Cases Interactive Map
 This assignment shows maps that are created from the data sources of COVID-19 regarding the cases. The data is then made into an interactive map to engage the viewer with what is being presented to them.
 
-**Link to project:** https://t3ch12et.github.io/COVID%20Interactive%20Maps/COVID%20counts/
+**Link to project:** https://NomadCode33.github.io/COVID%20Interactive%20Maps/COVID%20counts/
 
-<img src="./HealthViz-COVID Case Map.gif" img alt = "COVID Rates GIF"/>
+<img src="./COViz-COVID Cases Map.gif" img alt = "COVID Rates GIF"/>
 
 ## How It's Made:
 
