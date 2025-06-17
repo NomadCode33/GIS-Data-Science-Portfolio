@@ -31,8 +31,8 @@ Take a look at these couple examples that I have in my own portfolio:
 **EcoPulse Web App:** [EcoPulse Climate Interactive Web App](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Interactive%20Web%20App)
 
 ## Repositories
-**Profile:** https://github.com/NomadCode33
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
 **Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/NomadCode33/NomadGeo
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
