@@ -1,5 +1,5 @@
 # SeaRise3D: Miami Beach
-A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.
+A dynamic 3D map highlighting buildings in Miami, Florida projected to be at risk from sea level rise by 2030, 2050, and 2090, using spatial analysis to identify vulnerable infrastructure and enable city officials, developers, and climate resilience teams to prioritize mitigation and long-term adaptation efforts.
 
 <img alt = "Sea Level Rise GIF" img src="./ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif"/>
 
@@ -28,15 +28,15 @@ I never would have imagined I could create a map like this; it was definitely a 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**ThermaRisk:** [ThermaRisk: Mapping Urban Heat Risk in Athens](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ThermaRisk)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**OsoShift:** [OsoShift: Oso Landslie Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
+**Climate Action Repository:** [GreenMap Initiative](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
