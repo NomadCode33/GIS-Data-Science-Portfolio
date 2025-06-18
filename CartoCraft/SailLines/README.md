@@ -1,5 +1,5 @@
 # SailLines: The 1779 Transatlantic Race
-A stop-motion animation depicts two ships, El Rey and El Colon, racing across three different routes to determine which journey is the fastest.
+A stop-motion animation illustrating a race between two ships, El Rey and El Colon, as they navigate three distinct routes to determine the most efficient path. Designed to visualize comparative travel times, the animation blends storytelling with geographic insight to engage viewers in a dynamic exploration of maritime navigation.
 
 <img src="./ShipRace Spain to Puerto Rico, 1770 720p.gif" img alt = "ShipRace GIF"/>
 
@@ -28,15 +28,15 @@ Throughout this project, I learned the importance of meticulous planning and att
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+**TradeCurrents:** [TradeCurrents: Global Shipping in 1770](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/TradeCurrents)
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood Right-of-Way:** [Lynnwood ROW Acquisition](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Lynnwood%20ROW%20Acquisition)
 
-**Climate Change Report:** [Climate Change Report](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-report-saejinm)
+**EcoPulse Report:** [EcoPulse Climate Analysis Report](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Analysis%20Report)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
