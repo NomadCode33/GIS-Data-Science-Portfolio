@@ -1,5 +1,5 @@
 # CartoCraft: Applied ESRI Cartography & Map Design
-I participated in a cartography class led by seasoned GIS professionals, aimed at inspiring participants to move beyond default mapping templates. The course challenged us to push our creative boundaries and craft dynamic, impactful maps that transcend convention. Through this experience, I acquired advanced skills in both ArcGIS Pro and ArcGIS Online, enabling me to create visually stunning and engaging maps that effectively communicate complex spatial information.
+A collection of professionally styled maps developed as part of the ESRI Cartography MOOC, a course led by seasoned GIS professionals and focused on elevating visual storytelling in GIS. The project emphasizes advanced techniques in color theory, visual hierarchy, and layout design to move beyond standard mapping templates and deliver visually compelling, purpose-driven maps. Created using ArcGIS Pro and ArcGIS Online, each map is designed to clearly communicate complex spatial information while showcasing creativity, precision, and technical excellence in cartographic presentation.
 
 ## Repositories
 **Profile:** [NomadCode33](https://github.com/NomadCode33)
