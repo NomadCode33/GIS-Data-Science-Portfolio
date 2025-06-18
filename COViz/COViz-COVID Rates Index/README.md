@@ -1,5 +1,5 @@
 # COViz: COVID Rates Interactive Map
-This assignment shows maps that are created from the data sources of COVID-19 regarding the rates. The data is then made into an interactive map to engage the viewer with what is being presented to them.
+An interactive mapping project visualizing COVID-19 infection rates using data from trusted health sources. The map was developed to actively engage viewers, allowing them to explore regional trends and better understand the spread and intensity of the virus through an intuitive and accessible format.
 
 **Link to project:** https://NomadCode33.github.io/COVID%20Interactive%20Maps/COVID%20rates/
 
@@ -69,15 +69,15 @@ Through the development of this project, I learned how to harness these data sou
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**ThermaRisk:** [ThermaRisk: Mapping Urban Heat Risk in Athens](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ThermaRisk)
 
-**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+**SailLines:** [SailLines: The 1779 Transatlantic Race](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/SailLines)
 
-**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
+**BayouWaters:** [BayouWaters: A New Orleans Risk Model](https://github.com/NomadCode33/NomadGeo/tree/main/BayouWaters)
 
 ## Repositories
-**Profile:** https://github.com/NomadCode33
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
+**COVID Map Repository:** [COViz](https://github.com/NomadCode33/NomadGeo/tree/main/COViz)
 
-**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
