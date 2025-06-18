@@ -1,7 +1,7 @@
 # DemoGraphIt: Interactive Census Mapping Tool
-The project involved retrieving King County census data and constructing an interactive HTML map. It features three datasets: population data for 2000 and 2010, and poverty data for 2012-2016. Users can switch between these datasets using buttons, enhancing the viewing experience through reliable, user-friendly visualizations.
+An interactive HTML map built using King County census data, featuring three datasets: population data from 2000 and 2010, and poverty data from 2012–2016. Designed to enhance user experience, the map allows viewers to toggle between datasets using intuitive buttons, offering clear, reliable, and accessible visualizations for demographic analysis and decision-making.
 
-**Link to project:** https://t3ch12et.github.io/Population%20Interactive%20Map/
+**Link to project:** https://NomadCode33.github.io/Population%20Interactive%20Map/
 
 <img src="./DemoGraphIt.gif" img alt = "Population GIF"/>
 
@@ -63,15 +63,14 @@ Working on this project was a profound learning experience that highlighted the 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood Right-of-Way:** [Lynnwood ROW Acquisition](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Lynnwood%20ROW%20Acquisition)
 
-**Climate Change Website:** [Climate Change App](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
+**EcoPulse Web App:** [EcoPulse Climate Interactive Web App](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Interactive%20Web%20App)
 
-**Climate Change Report:** [Climate Change Report](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-report-saejinm)
+**EcoPulse Report:** [EcoPulse Climate Analysis Report](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Analysis%20Report)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
-
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
 
