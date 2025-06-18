@@ -1,5 +1,5 @@
 # North Bothell Bus Base
-This project involved mastering Autodesk Civil 3D to efficiently process, clean, and manage geospatial data, ultimately leading to the successful construction of a 3D model of Bothell Creek. Through a detailed workflow, including data preparation, quality control, and point cloud integration, I ensured high accuracy and precision in the final output.
+A geospatial modeling project focused on constructing a high-accuracy 3D model of Bothell Creek using Autodesk Civil 3D. The workflow involved processing, cleaning, and managing geospatial data, with a strong emphasis on data preparation, quality control, and point cloud integration. Mastery of Civil 3D tools ensured precision throughout each stage, resulting in a detailed and reliable 3D representation of the creek for environmental and planning applications.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -26,15 +26,15 @@ Through this project, I learned the critical importance of setting up a workspac
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
+**SeaRise3D:** [SeaRise3D: Miami Beach](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/SeaRise3D)
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**OsoShift:** [OsoShift: Oso Landslide Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)

@@ -1,5 +1,5 @@
 # Sumner Jurisdiction Boundary
-The Sumner Boundary Map project, undertaken independently, involved creating a comprehensive and accurate map of the Sumner area using ArcGIS Pro. The project included establishing the project boundary, gathering and cleansing various datasets, integrating data into Autodesk Civil 3D for enhanced management and visualization, and creating a high-resolution raster map for detailed visual representation.
+An independent mapping project focused on creating a comprehensive and accurate boundary map of the Sumner area using ArcGIS Pro. The workflow included defining the project boundary, collecting and cleaning relevant geospatial datasets, and integrating the data into Autodesk Civil 3D to enhance data management and visualization. The project concluded with the production of a high-resolution raster map, providing a detailed and visually rich representation of the Sumner region.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -64,15 +64,15 @@ Lastly, the project emphasized the importance of continuous learning and adaptat
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Lynnwood ROW Acquisition:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood Right-of-Way:** [Lynnwood ROW Acquisition](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Lynnwood%20ROW%20Acquisition)
 
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+**BayState Map:** [BayState: Map of Massachusetts](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/BayState%20Map)
 
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
+**COVID Rates Map:** [COViz: COVID Rates Interactive Map](https://github.com/NomadCode33/NomadGeo/tree/main/COViz/COViz-COVID%20Rates%20Index)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)

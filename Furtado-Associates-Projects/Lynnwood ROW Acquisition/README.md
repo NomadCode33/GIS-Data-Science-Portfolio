@@ -1,5 +1,5 @@
 # Lynnwood ROW Acquisition
-The Right-of-Way (ROW) department ensures draft maps align with check drawings on Autodesk Civil 3D, handling permits, parcel maps, and quality checks through teamwork and regular Microsoft Teams meetings. My tasks included file protection, parcel map analysis with Civil 3D commands, QA/QC in BlueBeam, and data verification using county websites.
+A Right-of-Way (ROW) support project focused on ensuring alignment between draft maps and check drawings within Autodesk Civil 3D. Responsibilities included managing permits, parcel maps, and quality assurance processes through collaborative efforts and regular coordination via Microsoft Teams. My contributions involved securing files, analyzing parcel maps using Civil 3D commands, conducting QA/QC reviews in BlueBeam, and verifying legal and spatial data through county assessor websites to ensure accuracy and compliance.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -28,16 +28,15 @@ Working on this project taught me the importance of file protection, data accura
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Sumner Jurisdiction Boundary:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Jurisdiction Boundary:** [Sumner Jurisdiction Boundary](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Sumner%20Jurisdiction%20Boundary)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
+**StormChronicles:** [StormChronicles: Hurricanes since 1851](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/StormChronicles) 
 
-**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
-
+**BayouWaters:** [BayouWaters: A New Orleans Risk Model](https://github.com/NomadCode33/NomadGeo/tree/main/BayouWaters)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)

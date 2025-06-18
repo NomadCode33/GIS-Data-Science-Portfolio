@@ -1,5 +1,5 @@
 # West Seattle Light Rail Survey
-In the Survey department, we collected data points for various projects, including infrastructure development, CCTV monitoring in sewers and pipelines, and forest area surveys. My role encompassed both fieldwork and office coordination.
+A data collection project within the Survey department supporting infrastructure development, CCTV monitoring of sewers and pipelines, and forest area assessments. My responsibilities included both fieldwork—gathering accurate data points using surveying equipment—and office coordination to ensure data integrity, proper documentation, and seamless integration with project workflows.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -40,15 +40,15 @@ During my time at Furtado & Associates, I learned the importance of meticulous d
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**North Bothell Bus Base:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
+**North Bothell Bus Base:** [North Bothell Bus Base](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/North%20Bothell%20Bus%20Base)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+**ReefWatch:** [ReefWatch: Coral Reef Health Monitoring Dashboard](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ReefWatch)
 
-**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
+**BayouWaters:** [BayouWaters: A New Orleans Risk Model](https://github.com/NomadCode33/NomadGeo/tree/main/BayouWaters)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
