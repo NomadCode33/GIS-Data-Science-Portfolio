@@ -1,10 +1,7 @@
 # EcoPulse: Global Warming
-This group project delves into the profound impacts of climate change across the globe. Using data from the World Health Organization, we meticulously cleaned, filtered, and extracted relevant datasets for various topics in RStudio. We explored numerous areas affected by climate change, including population shifts, agricultural impacts, and other critical aspects of daily life, especially in regions heavily dependent on their environment for livelihood.
-
-Our comprehensive findings are documented in a detailed report and an accessible website, both crafted in RStudio for public viewing. Through this project, we aim to shed light on the far-reaching consequences of climate change, presenting a clear, data-driven narrative to raise awareness and inform action.
-
+A collaborative data analysis project examining the global impacts of climate change using datasets from the World Health Organization. The team processed, filtered, and visualized data in RStudio to explore key issues such as population displacement, agricultural disruption, and environmental vulnerability in regions most at risk. The findings are presented through a detailed report and a publicly accessible website, offering a clear, data-driven narrative to raise awareness and support informed decision-making.
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Main Directory:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)

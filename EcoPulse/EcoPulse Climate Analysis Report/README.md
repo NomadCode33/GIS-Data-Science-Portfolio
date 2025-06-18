@@ -1,9 +1,9 @@
 # EcoPulse Climate Analysis Report
-This report delves into the multifaceted issue of climate change by examining economic damages, anomalies, greenhouse gas emissions, and population impacts. Utilizing extensive datasets from the World Health Organization, our research answers five key questions, with findings seamlessly integrated into a comprehensive, publicly accessible report.
+A comprehensive climate change report analyzing economic damages, temperature anomalies, greenhouse gas emissions, and population impacts using extensive datasets from the World Health Organization. The project addresses five central research questions, with findings synthesized into a cohesive and publicly accessible report designed to inform stakeholders and support data-driven climate action.
 
 **Link to Project**: https://NomadCode33.github.io/Climate-Change/project-report-saejinm/
 
-<img src="https://github.com/T3ch12et/git-lfs/blob/main/Climate%20Change%20Report.gif" img alt = "Climate Change Report GIF"/>
+<img src="https://github.com/NomadCode33/git-lfs/blob/main/Climate%20Change%20Report.gif" img alt = "Climate Change Report GIF"/>
 
 ## How It's Made:
 
@@ -31,15 +31,15 @@ This project was an eye-opener in many ways. I learned the importance of meticul
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+**BayState Map:** [BayState: Map of Massachusetts](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/BayState%20Map)
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood Right-of-Way:** [Lynnwood ROW Acquisition](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Lynnwood%20ROW%20Acquisition)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Climate Change Repository:** [Climate Change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change)
+**EcoPulse Repository:** [EcoPulse](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
