@@ -1,5 +1,5 @@
 # ImpactAtlas: Climate Change Through Spatial Insight
-An ArcGIS StoryMap that highlights my GIS work on studying and addressing climate change, designed to share my findings and spark further dialogue.
+An ArcGIS StoryMap showcasing my GIS-based research on climate change, designed to communicate key findings, visualize spatial patterns, and inspire further dialogue among stakeholders, educators, and the public. The project integrates maps, data narratives, and interactive elements to highlight the impacts of climate change and potential strategies for mitigation and adaptation.
 
 <img alt = "Addressing Climate Change StoryMaps GIF" img src="./Using GIS to address climate change - Google Chrome 2024-06-13 21-22-08.gif"/>
 
@@ -34,15 +34,15 @@ This leads to another valuable lesson I learned: crafting a compelling story tha
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Terazon:** [Terazon: Visualizing Land Cover Change in Rondonia](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/Terazon)
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
+**StormChronicles:** [StormChronicles: Hurricanes since 1851](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/StormChronicles) 
 
-**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
+**North Bothell Bus Base:** [North Bothell Bus Base](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/North%20Bothell%20Bus%20Base)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
+**Climate Action Repository:** [GreenMap Initiative](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
