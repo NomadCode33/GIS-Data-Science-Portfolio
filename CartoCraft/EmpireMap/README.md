@@ -1,5 +1,5 @@
 # EmpireMap: New York in Layers
-Labeled a street map of New York by employing label classes and utilizing queries to target and label specific subsets of features. Additionally, I created an optimized layout for the map, ensuring clear and effective presentation.
+A labeled street map of New York developed using label classes and attribute queries to selectively label specific feature subsets. The project included designing an optimized map layout to ensure clarity, readability, and effective visual communication for urban navigation and planning purposes.
 
 <img src="./New York.jpg" img alt = "New York Map"/>
 
@@ -36,15 +36,15 @@ Overall, this project deepened my understanding of the principles of visual hier
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+**BayState Map:** [BayState: Map of Massachusetts](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/BayState%20Map)
 
-**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+**Terazon:** [Terazon: Visualizing Land Cover Change in Rondonia](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/Terazon)
 
-**Population Map:** [Population Interactive Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
+**DemoGraphIt Map:** [DemoGraphIt: Interactive Census Mapping Tool](https://github.com/NomadCode33/NomadGeo/tree/main/DemoGraphIt)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
