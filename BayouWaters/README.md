@@ -1,5 +1,5 @@
 # BayouWaters: A New Orleans Risk Model (Post Hurricane Data Analysis)
-This group project examines hurricane flooding in New Orleans, a city vulnerable due to its low topography and proximity to the Gulf of Mexico. By using cartographic skills, we aimed to help residents, emergency responders, and policymakers better prepare for and mitigate future hurricane damage, though it is crucial to emphasize investing in high-risk zones to prevent exacerbating socio-economic disparities.
+A collaborative mapping project analyzing hurricane-induced flooding in New Orleans, a city especially vulnerable due to its low-lying terrain and proximity to the Gulf of Mexico. Through advanced cartographic techniques, the project supports residents, emergency responders, and policymakers in improving preparedness and mitigation strategies—while emphasizing the importance of equitable investment in high-risk areas to avoid deepening existing socio-economic disparities.
 
 **Link to Project:** https://NomadCode33.github.io/New-Orleans-Flood-Analysis/
 
@@ -82,13 +82,13 @@ Throughout this project, we gained invaluable insights into the complexities of 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**OsoShift:** [OsoShift](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**OsoShift:** [OsoShift: Oso Landslide Story](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/OsoShift)
 
-**Population Map:** [Population Interactive Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
+**DemoGraphIt Map:** [DemoGraphIt: Interactive Census Mapping Tool](https://github.com/NomadCode33/NomadGeo/tree/main/DemoGraphIt)
 
-**Climate Change Website:** [Climate Change App](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
+**EcoPulse Web App:** [EcoPulse Climate Interactive Web App](https://github.com/NomadCode33/NomadGeo/tree/main/EcoPulse/EcoPulse%20Climate%20Interactive%20Web%20App)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
