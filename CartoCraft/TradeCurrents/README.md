@@ -1,5 +1,5 @@
 # TradeCurrents: Global Shipping in 1770
-This animation provides a 2D visualization of the shipping routes of England, the Netherlands, and Spain in the year 1770, dynamically unfolding through time.
+A 2D animation visualizing the maritime shipping routes of England, the Netherlands, and Spain in the year 1770. The animation dynamically unfolds over time, illustrating patterns of movement and trade to provide historical insight into 18th-century naval activity and colonial commerce.
 
 <img src="./ShippingIn1770_gif_640x720p(3).gif" img alt = "Shipping in 1770 GIF"/>
 
@@ -32,15 +32,15 @@ I relish the feeling of being a director creating my own movie. Through this pro
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
+**StormChronicles:** [StormChronicles: Hurricanes since 1851](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/StormChronicles) 
 
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Jurisdiction Boundary:** [Sumner Jurisdiction Boundary](https://github.com/NomadCode33/NomadGeo/tree/main/Furtado-Associates-Projects/Sumner%20Jurisdiction%20Boundary)
 
-**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
+**BayouWaters:** [BayouWaters: A New Orleans Risk Model](https://github.com/NomadCode33/NomadGeo/tree/main/BayouWaters)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
