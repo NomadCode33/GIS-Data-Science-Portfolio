@@ -1,7 +1,7 @@
 # DemoGraphIt: Interactive Census Mapping Tool
 An interactive HTML map built using King County census data, featuring three datasets: population data from 2000 and 2010, and poverty data from 2012–2016. Designed to enhance user experience, the map allows viewers to toggle between datasets using intuitive buttons, offering clear, reliable, and accessible visualizations for demographic analysis and decision-making.
 
-**Link to project:** https://NomadCode33.github.io/Population%20Interactive%20Map/
+**Link to project:** https://nomadcode33.github.io/DemoGraphIt/
 
 <img src="./DemoGraphIt.gif" img alt = "Population GIF"/>
 

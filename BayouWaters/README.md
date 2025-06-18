@@ -1,7 +1,7 @@
 # BayouWaters: A New Orleans Risk Model (Post Hurricane Data Analysis)
 A collaborative mapping project analyzing hurricane-induced flooding in New Orleans, a city especially vulnerable due to its low-lying terrain and proximity to the Gulf of Mexico. Through advanced cartographic techniques, the project supports residents, emergency responders, and policymakers in improving preparedness and mitigation strategies—while emphasizing the importance of equitable investment in high-risk areas to avoid deepening existing socio-economic disparities.
 
-**Link to Project:** https://NomadCode33.github.io/New-Orleans-Flood-Analysis/
+**Link to Project:** https://nomadcode33.github.io/BayouWaters/
 
 <img src="https://github.com/NomadCode33/git-lfs/blob/main/New%20Orleans%20Flood%20Risk.gif" img alt = "New Orleans Flood Risk Website"/>
 

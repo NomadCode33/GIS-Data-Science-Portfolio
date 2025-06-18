@@ -1,7 +1,7 @@
 # COViz: COVID Rates Interactive Map
 An interactive mapping project visualizing COVID-19 infection rates using data from trusted health sources. The map was developed to actively engage viewers, allowing them to explore regional trends and better understand the spread and intensity of the virus through an intuitive and accessible format.
 
-**Link to project:** https://NomadCode33.github.io/COVID%20Interactive%20Maps/COVID%20rates/
+**Link to project:** https://nomadcode33.github.io/COViz/COVID%20rates/
 
 <img src="./HealthViz-COVID Rates Index.gif" img alt = "COVID Rates GIF"/>
 

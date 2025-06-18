@@ -1,7 +1,7 @@
 # EcoPulse Climate Analysis Report
 A comprehensive climate change report analyzing economic damages, temperature anomalies, greenhouse gas emissions, and population impacts using extensive datasets from the World Health Organization. The project addresses five central research questions, with findings synthesized into a cohesive and publicly accessible report designed to inform stakeholders and support data-driven climate action.
 
-**Link to Project**: https://NomadCode33.github.io/Climate-Change/project-report-saejinm/
+**Link to Project**: https://nomadcode33.github.io/EcoPulse/EcoPulse%20Climate%20Report/
 
 <img src="https://github.com/NomadCode33/git-lfs/blob/main/Climate%20Change%20Report.gif" img alt = "Climate Change Report GIF"/>
 

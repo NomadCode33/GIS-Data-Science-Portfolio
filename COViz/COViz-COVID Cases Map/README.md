@@ -1,7 +1,7 @@
 # COViz: COVID Cases Interactive Map
 An interactive mapping project visualizing COVID-19 case data sourced from authoritative public health datasets. The maps were designed to engage viewers through interactive elements, allowing for a clearer and more immersive exploration of the pandemic’s spread and regional impact.
 
-**Link to project:** https://NomadCode33.github.io/COVID%20Interactive%20Maps/COVID%20counts/
+**Link to project:** https://nomadcode33.github.io/COViz/COVID%20counts/
 
 <img src="./COViz-COVID Cases Map.gif" img alt = "COVID Rates GIF"/>
 
