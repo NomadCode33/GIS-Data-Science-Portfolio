@@ -1,5 +1,5 @@
 # Terazon: Visualizing Land Cover Change in Rondonia
-An interactive app highlighting the land cover change in Rondonia, detailing the transition from forest to cropland and urban areas from 1992 to 2020 due to deforestation.
+An interactive app visualizing land cover change in Rondônia, Brazil, from 1992 to 2020, emphasizing the transformation of forested areas into cropland and urban zones due to ongoing deforestation. Designed to inform environmental researchers, policymakers, and the public, the app presents temporal trends and spatial patterns to support awareness and conservation efforts.
 
 <img alt = "Rondonia Land Cover Change GIF" img src="./Rondonia Land Cover Change from 1992 to 2020 Emeka Emeche - Google Chrome 2024-06-13 20-58-03.gif"/>
 
@@ -24,15 +24,15 @@ Moreover, I was thrilled to learn something new, expanding my skill set and eage
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
+**SeaRise3D:** [SeaRise3D: Miami Beach](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/SeaRise3D)
 
-**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+**SailLines:** [SailLines: The 1779 Transatlantic Race](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/SailLines)
 
-**COVID Cases Map:** [COVID Interactive Cases Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20counts)
+**COVID Cases Map:** [COViz: COVID Cases Interactive Map](https://github.com/NomadCode33/NomadGeo/tree/main/COViz/COViz-COVID%20Case%20Map)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**GIS Climate Action Repository:** [ESRI MOOC GIS for Climate Action](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action)
+**Climate Action Repository:** [GreenMap Initiative](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
