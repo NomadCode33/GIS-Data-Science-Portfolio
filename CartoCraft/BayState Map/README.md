@@ -1,5 +1,5 @@
 # BayState: Map of Massachusetts
-A reference map depicting the state of Massachusetts, capturing its geographical and key administrative features in a compact format.
+A reference map of the state of Massachusetts, designed to present its geographical layout and key administrative features in a clear, compact format. Created for easy reference and general use, the map highlights major cities, county boundaries, transportation networks, and physical landmarks.
 
 <img src="./MapOfMassachusetts.png" img alt = "Massachusetts Map"/>
 
@@ -32,15 +32,15 @@ Through this project, I learned several valuable lessons that have significantly
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
+**EmpireMap:** [EmpireMap: New York in Layers](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/EmpireMap)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+**ReefWatch:** [ReefWatch: Coral Reef Health Monitoring Dashboard](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/ReefWatch)
 
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
+**COVID Rates Map:** [COViz: COVID Rates Interactive Map](https://github.com/NomadCode33/NomadGeo/tree/main/COViz/COViz-COVID%20Rates%20Index)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [CartoCraft](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
