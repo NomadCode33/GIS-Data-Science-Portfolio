@@ -1,5 +1,5 @@
 # COViz: COVID Cases Interactive Map
-This assignment shows maps that are created from the data sources of COVID-19 regarding the cases. The data is then made into an interactive map to engage the viewer with what is being presented to them.
+An interactive mapping project visualizing COVID-19 case data sourced from authoritative public health datasets. The maps were designed to engage viewers through interactive elements, allowing for a clearer and more immersive exploration of the pandemic’s spread and regional impact.
 
 **Link to project:** https://NomadCode33.github.io/COVID%20Interactive%20Maps/COVID%20counts/
 
@@ -105,15 +105,15 @@ Working on this project was an enlightening journey that taught me invaluable le
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+**Terazon:** [Terazon: Visualizing Land Cover Change in Rondonia](https://github.com/NomadCode33/NomadGeo/tree/main/GreenMap%20Initiative/Terazon)
 
-**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+**SailLines:** [SailLines: The 1779 Transatlantic Race](https://github.com/NomadCode33/NomadGeo/tree/main/CartoCraft/SailLines)
 
-**Population Map:** [Population Interactive Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
+**DemoGraphIt Map:** [DemoGraphIt: Interactive Census Mapping Tool](https://github.com/NomadCode33/NomadGeo/tree/main/DemoGraphIt)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** [NomadCode33](https://github.com/NomadCode33)
 
-**COVID Map Repository:** [COVID Interactive Maps](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps)
+**COVID Map Repository:** [COViz](https://github.com/NomadCode33/NomadGeo/tree/main/COViz)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** [NomadGeo](https://github.com/NomadCode33/NomadGeo)
